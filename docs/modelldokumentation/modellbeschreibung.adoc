@@ -9,10 +9,7 @@ Die Sonderbestimmungen der im ÖREB-Kataster dargestellten Gestaltungspläne wer
 auf einem oder mehreren (Detail-)Plänen sowie in Vorschriften festgehalten. Im Gegensatz zum
 Zonenplan werden die Inhalte der Gestaltungspläne nicht vollständig geometrisch erfasst, sondern –
 wie im Geodatenmodell Bereich Nutzungsplanung des Bundes bereits beschrieben – nur der
-Planungsperimeter. Die weiteren Planinhalte sind über die im ÖREB-Kataster hinterlegten PDF-Dateien des jeweiligen Gestaltungsplanes zugänglich. Der Perimeter der einzelnen Gestaltungspläne
-wird als überlagernder Nutzungsplaninhalt (andere flächenbezogene Festlegungen) erfasst und die
-dazugehörigen Dokumente (Plan und Sonderbauvorschriften) im PDF-Format über einen
-Dokumentlink mit der entsprechenden Geometrie verknüpft.
+Planungsperimeter. Die weiteren Planinhalte sind über die im ÖREB-Kataster hinterlegten PDF-Dateien des jeweiligen Gestaltungsplanes zugänglich. Der Perimeter der einzelnen Gestaltungspläne wird als überlagernder Nutzungsplaninhalt (andere flächenbezogene Festlegungen) erfasst und die dazugehörigen Dokumente (Plan und Sonderbauvorschriften) im PDF-Format über einen Dokumentlink mit der entsprechenden Geometrie verknüpft.
 
 === Zonentypen
 [cols="1,1,3,5"]
